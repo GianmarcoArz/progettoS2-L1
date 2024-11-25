@@ -1,0 +1,4 @@
+2024-11-25 16:35:09 [main] ERROR esercizio2.KmPerLitro - Errore: Divisione per zero. Assicurati di non inserire 0 litri.
+java.lang.ArithmeticException: Litri non possono essere zero.
+	at esercizio2.KmPerLitro.calcolaConsumo(KmPerLitro.java:37)
+	at esercizio2.KmPerLitro.main(KmPerLitro.java:23)
